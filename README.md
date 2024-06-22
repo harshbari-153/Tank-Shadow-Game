@@ -6,10 +6,10 @@ Tank Shadow Game is a basic C game where the player controls a tank to shoot at 
 ## Key Features
 - Initial Visibility: The target is visible at the start, but vanishes after the tank's first movement.
 - Shadow Mechanism: The target's shadow moves inversely to the target's movements:
-- - When the target moves up, its shadow moves down.
-- - When the target moves down, its shadow moves up.
-- - When the target moves right, its shadow moves left.
-- - When the target moves left, its shadow moves right
+  - When the target moves up, its shadow moves down.
+  - When the target moves down, its shadow moves up.
+  - When the target moves right, its shadow moves left.
+  - When the target moves left, its shadow moves right
 
 ## Controls
 - a: Move tank left
